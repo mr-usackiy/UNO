@@ -251,7 +251,7 @@ input[type=text]::placeholder{
    padding-top: 10px;
 }
 .slider{
-    position: absolute;
+    margin:  0 auto;
     width: 1160px;
     height: 386px;
     font-size: 0;
