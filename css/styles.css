@@ -251,6 +251,7 @@ input[type=text]::placeholder{
    padding-top: 10px;
 }
 .slider{
+    border-radius: 20%;
     margin:  0 auto;
     width: 1160px;
     height: 386px;
@@ -326,4 +327,24 @@ input[type=text]::placeholder{
     transition-duration: none;
     margin: 0 auto;
     
+}
+.wrapper_footer{
+    width: 100%;
+    padding-top: 50px;
+}
+.footer{
+margin: 0 auto;
+background-color: rgb(70, 55, 55);
+}
+.fotter_gap{
+    padding-top: 100px;
+    width: 400px;
+    margin: 0 auto;
+   text-align: center;
+}
+.text_footer{
+    color: aliceblue;
+    font-family: Forum;
+    font-size: 22px;
+    line-height: 39px;
 }
